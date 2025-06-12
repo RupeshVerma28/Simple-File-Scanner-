@@ -40,4 +40,11 @@ The tool operates **completely offline** with no third-party API dependencies, m
 ---
 
 ## 📂 Folder Structure
+Simple-File-Scanner-/
+├── file_scanner_tool.py        # Main scanner script
+├── scan_report.pdf             # Output report file
+├── README.md                   # Documentation
+└── assets/
+    └── screenshot.png          # GUI preview (optional)
+
 
